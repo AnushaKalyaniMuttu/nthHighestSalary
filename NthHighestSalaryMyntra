@@ -1,0 +1,2 @@
+map.entrySet().sorted( Map.Entry.comparingByValue()).collect(Collectors.toList()).get(1)
+//Second highest Salary
